@@ -1,0 +1,6 @@
+{
+  "name": "CERTGUARD — Automated Certificate Lifecycle & Expiry Monitor",
+  "description": "Enterprise cybersecurity monitoring platform to discover TLS/SSL endpoints, inspect certificate expiry risk, analyze cipher security, calculate explainable risk scores, and manage automated remediation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
